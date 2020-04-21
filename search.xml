@@ -91,9 +91,9 @@
       
         <tags>
             
-            <tag> tf.keras </tag>
-            
             <tag> tensorflow </tag>
+            
+            <tag> tf.keras </tag>
             
         </tags>
       
@@ -201,9 +201,9 @@
       
         <tags>
             
-            <tag> tensorflow </tag>
-            
             <tag> Pycharm </tag>
+            
+            <tag> tensorflow </tag>
             
             <tag> opencv-python </tag>
             
